@@ -3,7 +3,7 @@
 <h3 align="center">A passionate data analytics student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🔭 I’m currently working on **Sentiment Analysis**
+- 🔭 I’m currently working on **KNN Models**
 
 - 🌱 I’m currently learning **Data Science Bootcamp**
 
