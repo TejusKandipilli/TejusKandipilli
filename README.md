@@ -1,13 +1,13 @@
 ![MasterHead](https://www.psychologicalscience.org/redesign/wp-content/uploads/2018/09/GettyImages-909157254-e1538156817815.jpg)
 <h1 align="center">Hi 👋, I'm Tejus Kandipilli</h1>
-<h3 align="center">A passionate data analytics student</h3>
+<h3 align="center">Developer and Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🔭 I’m currently working on **KNN Models**
+- 🔭 I’m currently working on **Deploying Full Stack Applications**
 
-- 🌱 I’m currently learning **Data Science Bootcamp**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Data Anaytics, Machine Learning**
+- 💬 Ask me about **Web Development, Machine Learning**
 
 - 📫 How to reach me **kandipillitejus@gmail.com**
 
