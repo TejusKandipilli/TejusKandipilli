@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Deploying Full Stack Applications**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Production Level Deep Learning and AI Projects**
 
-- 💬 Ask me about **Web Development, Machine Learning**
+- 💬 Ask me about **Web Development, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **kandipillitejus@gmail.com**
 
